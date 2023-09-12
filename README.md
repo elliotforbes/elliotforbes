@@ -2,7 +2,7 @@
 
 Hi, I'm Elliot. I record programming videos and post them on my [YouTube](https://youtube.com/tutorialedge) as well as on my site [TutorialEdge](https://tutorialedge.net). 
 
-I currently work as a Senior Software Engineer at @CircleCI!
+I currently work as a Staff Software Engineer at @CircleCI!
 
 ### Previous:
 
